@@ -1,0 +1,267 @@
+---
+title: 'A Brief History of Air Pollution and Exposure Pathways'
+subtitle: 'ENVH 111'
+author: 'Eddie Kasner'
+date: ''
+output:
+  beamer_presentation:
+    fig_caption: no
+incremental: no
+urlcolor: blue
+classoption: aspectratio=169
+---
+
+Overview
+========================================================
+1. Air pollution sources, exposure routes and pathways
+2. Historic air quality events
+    + Meuse Valley, Belgium \hfill (1930)
+    + Donora, Pennsylvania  \hfill (1948)
+    + Great Smog of London  \hfill (1952)
+    + Los Angeles and Clean Air Act \hfill (1970)
+    + Beijing "Airpocalypse" \hfill (2013-2014)
+    + Recent wildfire smoke events \hfill (2020-2025)
+3. Air pollution studies
+4. Government and policy
+
+Exposure Route
+========================================================
+
++ Exposure route = how a contaminant enters receptor
+    + Dermal contact
+    + Ingestion
+    + Inhalation
+
++ Exposure pathway = source + medium + exposure route
+
+\begin{center}
+\includegraphics[height=4.5cm]{images/routesofexposure.png}
+
+\fontsize{5pt}{5}\selectfont
+Damalas C. 2016. Farmers' Exposure to Pesticides: Toxicity Types and Ways of Prevention. Open Access Toxics 2016, 4(1): 1.
+\end{center}
+
+Air Pollution Sources
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/sources-of-air-pollution.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Scotland's Environment. Air quality.
+https://www.environment.gov.scot/our-environment/air/air-quality/
+\end{center}
+
+Exposure Pathway
+========================================================
+\small
++ Sources
+    + Natural: volcanic eruptions, wildfires, allergens
+    + Human: energy use, transportation, industry, agriculture
++ Pollutants
+    + Primary: hazardous substance emitted directly into atmosphere
+        + CO    - gas, coal, or wood combustion
+        + NO~x~ - fossil fuel combustion, e.g. brown haze around cities
+        + SO~2~ - volcanoes and industrial coal combustion
+        + PM    - particulate matter, e.g. fossil fuel combustion, brake dust, smoke
+        + NH~3~ - agricultural processes, e.g. fertilizer
+        + VOCs  - volatile organic compounds, e.g. benzene, toluene
+        + Pb    - "anti-knocking" agent formerly added to gasoline
+    + Secondary: hazardous substance formed in atmospheric reaction
+        + O~3~, SO~3~, HNO~3~, H~2~SO~4~, H~2~O~2~, NH~4~^+^, PM
++ Receptors: humans and animals (each pollutant has different health effect)
+
+Meuse Valley Fog, Belgium (1930)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/meusemap}
+
+\fontsize{5pt}{5}\selectfont
+Nemery et al. 2001. The Meuse Valley fog of 1930: an air pollution disaster.
+The Lancet 357(9257): 704-708.
+\end{center}
+
+Meuse Valley Fog, Belgium (1930)
+========================================================
++ Sources
+    + SO~2~, H~2~SO~4~, or HF from nearby zinc, glass, and steel factories
+    + Inversion: warm air layer trapped cold, polluted air in the valley (5 days in Dec)
++ Receptors
+    + Asthma-like symptoms: shortness of breath, coughing fits
+    + Estimated 60 excess deaths (20-89 years old)
++ Impacts
+    + Seen at the time as "an unavoidable consequence of prosperity"
+    + Interviewed family physicians and patients days after smog
+    + First scientific proof of link between air pollution and illness and death
+    + Demonstrated role of temperature inversions
+
+Temperature Inversion
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/inversion.PNG}
+
+\fontsize{5pt}{5}\selectfont
+Understory captures evidence of temperature inversion in Kansas City. http://understoryweather.com/understory-captures-evidence-of-temperature-inversion-in-kansas-city/
+\end{center}
+
+Donora, Pennsylvania Smog (1948)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/donora.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Donora Historical Society and Smog Museum.
+https://www.sites.google.com/site/donorahistoricalsociety/1948-smog
+\end{center}
+
+Donora, Pennsylvania Smog (1948)
+========================================================
++ Sources
+    + CO, SO~2~, and H~2~SO~4~ from steel and zinc factories
+    + Temperature inversion (5 days in Oct)
++ Receptors
+    + About 14,000 residents trapped under thick layer of smog
+    + Nearly 7,000 experienced respiratory or cardiovascular issues
+    + About 20 deaths during the event
++ Impacts
+    + Widely publicized around world and people acted
+    + Scientists began to study link between air pollution and health
+    + Helped lead to first US federal air law: Air Pollution Control Act (1955)
+
+Great Smog of London (1952)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/londonfog.jpg}
+
+\fontsize{5pt}{5}\selectfont
+A tugboat on the Thames near Tower Bridge in heavy smog, 1952. Fox Photos, Getty Images. https://timedotcom.files.wordpress.com/2016/11/london-fog.jpg
+\end{center}
+
+Great Smog of London (1952)
+========================================================
++ Sources
+    + Cold weather led residents to burn extra coal [SO~2~, PM] to stay warm
+    + Inversion: 30-mile stagnant air mass (5 days in Dec)
++ Receptors
+    + About 100,000 residents felt ill with respiratory symptoms
+    + Estimated 4,000-12,000 excess deaths, mostly from bronchitis and pneumonia
++ Impacts
+    + Especially bad "pea-souper" as seen on TV (e.g. *The Crown*)
+    + Led to UK Clean Air Act of 1956 (and 1970 in US)
+    + Landmark in air pollution epidemiology: first detailed analysis linking pollutant levels to illness and death [(Nemery et al. 2001)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(00)04135-0/fulltext)
+
+Los Angeles Smog (1954)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/LA-smog-masks.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Highland Park Optimist Club wearing smog-gas masks at banquet, Los Angeles, c. 1954. UCLA Library.
+\end{center}
+
+Los Angeles Smog and Clean Air Act (1970)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/lasmog1.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Photochemical smog in Los Angeles. Getty images.
+\end{center}
+
+Los Angeles Smog and Clean Air Act (1970)
+========================================================
+\small
++ Sources
+    + 1,000,000+ vehicles on LA roads by 1940
+    + VOC emissions + sunlight + NO~x~ $\rightarrow$ O~3~ (photochemical smog)
+    + LA is natural trap for smog accumulation
+        + Geography: flat basin between ocean and mountains
+        + Weather patterns: cold ocean current creates inversions
++ Receptors
+    + Respiratory and cardiovascular effects among residents
+    + Systematic spatial association between respiratory mortality and increased O~3~ levels in 1961 [(Mahoney 1976)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1130478/?page=3)
++ Impacts
+    + [Clean Air Act of 1970](https://www.epa.gov/laws-regulations/summary-clean-air-act) set federal and state regulations to limit stationary and mobile source emissions
+    + O~3~ levels far below 1970s peaks despite many more cars
+    + Still ranked worst US metro for O~3~ in 26 of last 27 years [(ALA State of the Air 2026)](https://www.lung.org/research/sota)
+
+US Emissions After the Clean Air Act (1990-2024)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/us-emissions-trends.png}
+
+\fontsize{5pt}{5}\selectfont
+US EPA. \href{https://gispub.epa.gov/air/trendsreport/2025/\#home}{Our Nation's Air 2025}. https://gispub.epa.gov/air/trendsreport/2025/
+\end{center}
+
+Beijing "Airpocalypse" (2013-2014)
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/beijing-smog-split-screen-horizontal-large-gallery.png}
+
+\fontsize{5pt}{5}\selectfont
+Beijing smog vs. no smog. 2014. Getty Images.
+\end{center}
+
+Beijing "Airpocalypse" (2013-2014)
+========================================================
++ Sources
+    + PM from burning coal for heat in winter, industry, and vehicle traffic
+    + Like LA, Beijing in "natural bowl" with temperature inversions
++ Receptors
+    + Respiratory and cardiovascular effects among residents
+    + Jan 2013: PM~2.5~ went "beyond index," over 20x WHO guideline
++ Impacts
+    + 2013 Air Pollution Action Plan: cut coal, closed old plants, cleaner fuels
+    + Annual PM~2.5~ fell from about 100 $\mu$g/m^3^ (2013) to 27 $\mu$g/m^3^ (2025)
+    + US Embassy hourly air quality posts raised public pressure
+
+West Coast Wildfire Smoke
+========================================================
+\begin{center}
+\includegraphics[height=6.2cm]{images/PNWfires.jpg}
+
+\fontsize{5pt}{5}\selectfont
+Smoke and wildfires in western U.S., 2017. NASA.
+https://www.nasa.gov/image-feature/goddard/2017/smoke-and-fires-light-up-pacific-northwest
+\end{center}
+
+Recent Wildfire Smoke Events (2020-2025)
+========================================================
+\small
++ Sources
+    + Hotter, drier conditions and strong winds drive larger fires
+    + Smoke (mostly PM~2.5~) travels hundreds to thousands of miles
++ Receptors
+    + Entire regions, rural and urban, often far from the fire
++ Some recent major wildfire smoke events
+    + West Coast, Sept 2020: Portland had world's worst major-city air; daily AQI peaked at 357 (Portland) and 196 (Seattle)
+    + East Coast, June 2023: smoke from Canadian fires pushed NYC AQI near 500; about 62 million people exposed
+    + Los Angeles, Jan 2025: urban fires destroyed 16,000+ structures; smoke and ash carried heavy metals
++ Impacts
+    + Protection relies on AQI alerts, indoor air filtration, and limiting time outdoors
+
+Air Pollution Studies
+========================================================
+\small
+1. [Harvard "Six Cities" Study](https://www.nejm.org/doi/full/10.1056/NEJM199312093292401)
+2. [Multi-Ethnic Study of Atherosclerosis and Air Pollution (MESA Air), led by UW](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2816%2900378-0/fulltext)
+3. [UW Adult Changes in Thought Air Pollution (ACT-AP) Study: PM~2.5~ and dementia](https://deohs.washington.edu/air-pollution-aging-brain-and-alzheimers-disease)
+4. [State of Global Air 2024](https://www.stateofglobalair.org/news-events/2024/new-state-global-air-report-finds-air-pollution-second-leading-risk-factor-death): air pollution linked to 8.1 million deaths (2021), 2nd leading risk factor
+5. [Burke et al. 2023, *Nature*](https://news.stanford.edu/stories/2023/09/wildfire-smokes-toxic-influence): wildfire smoke erased about 1/4 of PM~2.5~ gains since 2000 in 35 states
+6. Local monitoring you can check today:
+    + [Puget Sound Clean Air Agency sensor map](https://map.pscleanair.gov/), [WA Ecology air quality map](https://airqualitymap.ecology.wa.gov/), [EPA AirNow Fire and Smoke Map](https://fire.airnow.gov)
+7. Health effects commonly studied: mortality, respiratory disease and lung cancer, cardiovascular disease and stroke, low birthweight, dementia
+
+Government and Policy
+========================================================
+\small
+1. Clean Air Act (1956-UK; 1970-USA)
+2. National Ambient Air Quality Standards (NAAQS)
+    + CO, Pb, NO~2~, O~3~, PM~10~, PM~2.5~, SO~2~
+    + 2024: annual PM~2.5~ standard lowered from 12 to 9 $\mu$g/m^3^ (upheld in federal court, 2026)
+3. [WHO Air Quality Guidelines (2021)](https://www.who.int/publications/i/item/9789240034228): annual PM~2.5~ guideline of 5 $\mu$g/m^3^
+4. Air quality modeling and monitoring
+    + [Dispersion](https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models) and [receptor](https://www.epa.gov/scram/air-pollutant-receptor-modeling) modeling; [Puget Sound Clean Air Agency](https://pscleanair.gov/) and [WA Ecology](https://airqualitymap.ecology.wa.gov/) monitors
+    + [EPA Our Nation's Air 2025](https://gispub.epa.gov/air/trendsreport/2025/\#home): national air quality and emissions trends
+5. [WA wildfire smoke rule for workers](https://lni.wa.gov/safety-health/safety-rules/rulemaking-stakeholder-information/wildfire-smoke) (L&I, 2024; updated 2025)
+6. [WA Climate Commitment Act](https://ecology.wa.gov/Air-Climate/Climate-Commitment-Act/Overburdened-communities): improving air quality in 16 overburdened communities
