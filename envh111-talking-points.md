@@ -37,7 +37,7 @@ The 22 slides run about 24 minutes, with most of the time on the six events. One
 
 ## Slides 3-5: Exposure basics (3:00)
 
-**Slide 3. Exposure route**
+**Slide 3. Exposure pathways and routes**
 
 - Pathway = source + medium + receptor; break any link and there is no exposure
 - Route = how a contaminant gets into the body: skin contact, ingestion, inhalation

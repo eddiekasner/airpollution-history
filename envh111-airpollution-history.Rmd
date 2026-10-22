@@ -24,7 +24,7 @@ Overview
 3. Air pollution studies
 4. Government and policy
 
-Exposure Route
+Exposure Pathways and Routes
 ========================================================
 
 + Exposure pathway = source + medium + receptor
