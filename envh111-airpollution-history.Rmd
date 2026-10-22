@@ -3,9 +3,15 @@ title: 'A Brief History of Air Pollution and Exposure Pathways'
 subtitle: 'ENVH 111'
 author: 'Eddie Kasner'
 date: ''
+lang: en-US
 output:
   beamer_presentation:
     fig_caption: no
+    pandoc_args: ["--lua-filter=slide-images.lua"]
+  powerpoint_presentation:
+    fig_caption: no
+    reference_doc: envh111-reference.pptx
+    pandoc_args: ["--lua-filter=slide-images.lua"]
 incremental: no
 urlcolor: blue
 classoption: aspectratio=169
@@ -34,22 +40,23 @@ Exposure Pathways and Routes
     + Ingestion
     + Inhalation
 
-\begin{center}
-\includegraphics[height=4.5cm]{images/routesofexposure.png}
+::::: {.slideimage}
+![Three black silhouettes of a person's head and torso labeled Contact, Ingestion, and Inhalation. Arrows point at the skin for contact, into the mouth and stomach for ingestion, and into the nose and lungs for inhalation.](images/routesofexposure.png){height=4.5cm}
 
-\fontsize{5pt}{5}\selectfont
+::: {.credit}
 Damalas C. 2016. Farmers' Exposure to Pesticides: Toxicity Types and Ways of Prevention. Open Access Toxics 2016, 4(1): 1.
-\end{center}
+:::
+:::::
 
 Air Pollution Sources
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/sources-of-air-pollution.jpg}
+::::: {.slideimage}
+![Illustration of air pollution sources. Volcanoes, wildfires, agriculture, factories, towns and homes, vehicle exhaust, aeroplanes, and shipping emit primary pollutants (carbon monoxide, nitric oxide, sulphur dioxide, nitrogen dioxide, ammonia, particulates, and volatile organic compounds), which react in the atmosphere to form secondary pollutants (sulphur trioxide, nitric acid, sulphuric acid, hydrogen peroxide, ammonium, ozone, and particulates).](images/sources-of-air-pollution.jpg){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
-Scotland's Environment. Air quality.
-https://www.environment.gov.scot/our-environment/air/air-quality/
-\end{center}
+::: {.credit}
+Scotland's Environment. Air quality. https://www.environment.gov.scot/our-environment/air/air-quality/
+:::
+:::::
 
 Exposure Pathway
 ========================================================
@@ -72,13 +79,13 @@ Exposure Pathway
 
 Meuse Valley Fog, Belgium (1930)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/meusemap}
+::::: {.slideimage}
+![Map of the Meuse Valley, about 20 kilometers long, running from Huy in the southwest to Liège in the northeast. A dotted line marks the fog-covered area along the river, with densely populated areas shaded and markers for large factories and deaths clustered along the narrow valley floor.](images/meusemap.png){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
-Nemery et al. 2001. The Meuse Valley fog of 1930: an air pollution disaster.
-The Lancet 357(9257): 704-708.
-\end{center}
+::: {.credit}
+Nemery et al. 2001. The Meuse Valley fog of 1930: an air pollution disaster. The Lancet 357(9257): 704-708.
+:::
+:::::
 
 Meuse Valley Fog, Belgium (1930)
 ========================================================
@@ -96,22 +103,23 @@ Meuse Valley Fog, Belgium (1930)
 
 Temperature Inversion
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/inversion.PNG}
+::::: {.slideimage}
+![Two-panel diagram over a city skyline. Under normal conditions, air is warmest near the ground and arrows show it rising freely. During a temperature inversion, a layer of warmer air sits above cooler air near the ground, and arrows show rising air blocked and turned back down.](images/inversion.PNG){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
+::: {.credit}
 Understory captures evidence of temperature inversion in Kansas City. http://understoryweather.com/understory-captures-evidence-of-temperature-inversion-in-kansas-city/
-\end{center}
+:::
+:::::
 
 Donora, Pennsylvania Smog (1948)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/donora.jpg}
+::::: {.slideimage}
+![Black-and-white photo of Donora, Pennsylvania, with small houses and laundry lines in the foreground and mill smokestacks releasing smoke along the river valley in the background.](images/donora.jpg){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
-Donora Historical Society and Smog Museum.
-https://www.sites.google.com/site/donorahistoricalsociety/1948-smog
-\end{center}
+::: {.credit}
+Donora Historical Society and Smog Museum. https://www.sites.google.com/site/donorahistoricalsociety/1948-smog
+:::
+:::::
 
 Donora, Pennsylvania Smog (1948)
 ========================================================
@@ -129,12 +137,13 @@ Donora, Pennsylvania Smog (1948)
 
 Great Smog of London (1952)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/londonfog.jpg}
+::::: {.slideimage}
+![Black-and-white photo of a tugboat on the River Thames in thick smog, with Tower Bridge barely visible behind it.](images/londonfog.jpg){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
+::: {.credit}
 A tugboat on the Thames near Tower Bridge in heavy smog, 1952. Fox Photos, Getty Images. https://timedotcom.files.wordpress.com/2016/11/london-fog.jpg
-\end{center}
+:::
+:::::
 
 Great Smog of London (1952)
 ========================================================
@@ -151,21 +160,23 @@ Great Smog of London (1952)
 
 Los Angeles Smog (1954)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/LA-smog-masks.jpg}
+::::: {.slideimage}
+![Black-and-white photo of men seated at banquet tables, many wearing gas masks, with a protest banner hanging at the front of the room.](images/LA-smog-masks.jpg){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
+::: {.credit}
 Highland Park Optimist Club wearing smog-gas masks at banquet, Los Angeles, c. 1954. UCLA Library.
-\end{center}
+:::
+:::::
 
 Los Angeles Smog and Clean Air Act (1970)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/lasmog1.jpg}
+::::: {.slideimage}
+![Photo of the downtown Los Angeles skyline under a thick brown layer of smog, with clear blue sky above the haze.](images/lasmog1.jpg){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
+::: {.credit}
 Photochemical smog in Los Angeles. Getty images.
-\end{center}
+:::
+:::::
 
 Los Angeles Smog and Clean Air Act (1970)
 ========================================================
@@ -186,21 +197,23 @@ Los Angeles Smog and Clean Air Act (1970)
 
 US Emissions After the Clean Air Act (1990-2024)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/us-emissions-trends.png}
+::::: {.slideimage}
+![Line chart of US national emissions from 1990 to 2024 in million tons. Sulfur dioxide, nitrogen oxides, carbon monoxide, and volatile organic compounds decline steeply, with sulfur dioxide falling from about 23 to under 2 million tons and nitrogen oxides from about 25 to about 7. Direct PM2.5 and PM10 decline slightly, while ammonia stays roughly flat near 4 to 5 million tons. Carbon monoxide, on a separate right axis, falls from about 145 to about 40 million tons.](images/us-emissions-trends.png){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
-US EPA. \href{https://gispub.epa.gov/air/trendsreport/2025/\#home}{Our Nation's Air 2025}. https://gispub.epa.gov/air/trendsreport/2025/
-\end{center}
+::: {.credit}
+US EPA. [Our Nation's Air 2025](https://gispub.epa.gov/air/trendsreport/2025/). https://gispub.epa.gov/air/trendsreport/2025/
+:::
+:::::
 
 Beijing "Airpocalypse" (2013-2014)
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/beijing-smog-split-screen-horizontal-large-gallery.png}
+::::: {.slideimage}
+![Two photos of the same Beijing skyline. In the top photo, smog hides most buildings in gray haze; in the bottom photo, the buildings are sharp against a clear sky.](images/beijing-smog-split-screen-horizontal-large-gallery.png){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
+::: {.credit}
 Beijing smog vs. no smog. 2014. Getty Images.
-\end{center}
+:::
+:::::
 
 Beijing "Airpocalypse" (2013-2014)
 ========================================================
@@ -217,13 +230,13 @@ Beijing "Airpocalypse" (2013-2014)
 
 West Coast Wildfire Smoke
 ========================================================
-\begin{center}
-\includegraphics[height=6.2cm]{images/PNWfires.jpg}
+::::: {.slideimage}
+![NASA satellite image of the western United States and southern Canada, with red dots marking active fires and gray smoke plumes spreading east across several states.](images/PNWfires.jpg){height=6.2cm}
 
-\fontsize{5pt}{5}\selectfont
-Smoke and wildfires in western U.S., 2017. NASA.
-https://www.nasa.gov/image-feature/goddard/2017/smoke-and-fires-light-up-pacific-northwest
-\end{center}
+::: {.credit}
+Smoke and wildfires in western U.S., 2017. NASA. https://www.nasa.gov/image-feature/goddard/2017/smoke-and-fires-light-up-pacific-northwest
+:::
+:::::
 
 Recent Wildfire Smoke Events (2020-2025)
 ========================================================
