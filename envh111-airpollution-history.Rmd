@@ -27,12 +27,12 @@ Overview
 Exposure Route
 ========================================================
 
++ Exposure pathway = source + medium + receptor
+
 + Exposure route = how a contaminant enters receptor
     + Dermal contact
     + Ingestion
     + Inhalation
-
-+ Exposure pathway = source + medium + exposure route
 
 \begin{center}
 \includegraphics[height=4.5cm]{images/routesofexposure.png}

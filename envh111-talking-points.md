@@ -39,9 +39,9 @@ The 22 slides run about 24 minutes, with most of the time on the six events. One
 
 **Slide 3. Exposure route**
 
+- Pathway = source + medium + receptor; break any link and there is no exposure
 - Route = how a contaminant gets into the body: skin contact, ingestion, inhalation
 - For air pollution, inhalation is the main route, but particles that settle can also be swallowed or touched
-- Pathway = source + medium + route; break any link and there is no exposure
 - Image comes from a farmworker pesticide paper; same three routes apply to any chemical
 
 **Slide 4. Air pollution sources**
